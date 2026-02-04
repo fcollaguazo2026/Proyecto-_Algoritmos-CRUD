@@ -1,6 +1,8 @@
 # Proyecto-_Algoritmos-CRUD
 
 Sistema de Caja Registradora con CRUD y Autenticación en Tkinter
+<img width="301" height="167" alt="image" src="https://github.com/user-attachments/assets/197e06db-66ac-47af-baf6-b167d58267e1" />
+
 
 Este proyecto consiste en el desarrollo de una aplicación de escritorio implementada en Python, utilizando la biblioteca gráfica Tkinter, cuyo propósito principal es simular un sistema de caja registradora con funcionalidades completas de administración de pedidos, integrando además un módulo básico de autenticación de usuarios.
 
