@@ -1,6 +1,8 @@
 # Proyecto-_Algoritmos-CRUD
 
 Sistema de Caja Registradora con CRUD y Autenticación en Tkinter
+
+
 <img width="301" height="167" alt="image" src="https://github.com/user-attachments/assets/197e06db-66ac-47af-baf6-b167d58267e1" />
 
 
